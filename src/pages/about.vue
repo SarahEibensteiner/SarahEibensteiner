@@ -34,7 +34,7 @@
             class="p-aboutSarah__singleLink"
             filename="linkedin.svg"
             text="LinkedIn"
-            link="ttps://www.linkedin.com/in/sarah-eibensteiner/" />
+            link="https://www.linkedin.com/in/sarah-eibensteiner/" />
         </div>
         <span class="p-aboutSarah__seperator"></span>
         <div class="p-aboutSarah__introText">
