@@ -12,7 +12,7 @@ export default {
   props: {
     filename: String,
     text: String,
-    link: String
+    link: String,
   }
 }
 </script>
@@ -31,6 +31,7 @@ export default {
     color: #2f363d;
     text-decoration: none;
     -webkit-font-smoothing: antialiased;
+    cursor: pointer;
 }
 
 </style>
