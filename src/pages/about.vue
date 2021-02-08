@@ -24,7 +24,7 @@
             class="p-aboutSarah__singleLink"
             filename="file.svg"
             text="Get my CV"
-            link="lala" />
+            link="/CV.pdf"/>
           <SingleLink 
             class="p-aboutSarah__singleLink"
             filename="mail.svg"
@@ -77,7 +77,7 @@ export default {
         spread: 70,
         origin: { y: 1.2 },
       });
-    },  
+    },
   }
 }
 </script>
